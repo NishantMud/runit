@@ -5,3 +5,5 @@ Tring to work on github using git.
 
 We can also use github using git..
 ...
+This should be visible in another branch.
+
